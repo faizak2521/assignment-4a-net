@@ -48,6 +48,6 @@ public class SalaryWorker : Employee
     {
         float weeklyPay = salary / 52;
 
-        return "SalaryWorker " + base.getId() + " " + base.getFirstName() + " " + base.getLastName() + " " + weeklyPay;
+        return "Salary Worker " + base.getId() + " " + base.getFirstName() + " " + base.getLastName() + " " + weeklyPay;
     }
 }

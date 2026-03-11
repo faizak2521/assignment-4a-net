@@ -63,6 +63,6 @@ public class PieceWorker : Employee
     {
         float weeklyPay = wage_per_piece * quantity;
 
-        return "PieceWorker " + base.getId() + " " + base.getFirstName() + " " + base.getLastName() + " " + weeklyPay;
+        return "Piece Worker " + base.getId() + " " + base.getFirstName() + " " + base.getLastName() + " " + weeklyPay;
     }
 }

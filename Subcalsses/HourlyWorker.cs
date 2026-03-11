@@ -73,6 +73,6 @@ public class HourlyWorker : Employee
             weeklyPay = regularPay + overtimePay;
         }
 
-        return "HourlyWorker " + base.getId() + " " + base.getFirstName() + " " + base.getLastName() + " " + weeklyPay;
+        return "Hourly Worker " + base.getId() + " " + base.getFirstName() + " " + base.getLastName() + " " + weeklyPay;
     }
 }

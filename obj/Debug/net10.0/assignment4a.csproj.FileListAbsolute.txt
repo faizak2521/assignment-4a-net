@@ -12,3 +12,4 @@
 /Users/faiza/Documents/NET/assignment4a/obj/Debug/net10.0/assignment4a.pdb
 /Users/faiza/Documents/NET/assignment4a/obj/Debug/net10.0/assignment4a.genruntimeconfig.cache
 /Users/faiza/Documents/NET/assignment4a/obj/Debug/net10.0/ref/assignment4a.dll
+/Users/faiza/Documents/NET/assignment4a/obj/Debug/net10.0/assignment4a.sourcelink.json

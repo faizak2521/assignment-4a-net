@@ -77,6 +77,6 @@ public class CommissionWorker : Employee
     {
         float weeklyPay = (sales * comm_rate) + (salary / 52);
 
-        return "CommissionWorker " + base.getId() + " " + base.getFirstName() + " " + base.getLastName() + " " + weeklyPay;
+        return "Commission Worker " + base.getId() + " " + base.getFirstName() + " " + base.getLastName() + " " + weeklyPay;
     }
 }
